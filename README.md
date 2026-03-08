@@ -2,7 +2,7 @@
 **Created by Mohd Hozaifa | B.Tech CS-AI Student**
 
 ## Project Overview
-this is  automated testing suite it will execute by  Python and PyTest it validates by using  backend API responses .
+This is an Automated Testing Suite Developed byusing python and py test it is designed to validate system reliabiity by performing automated assertions on Backend API RESPONSE.
 
 ## Features
 - **Automated Assertions**: Status codes aur JSON body validation.
